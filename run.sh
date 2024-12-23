@@ -1,0 +1,1 @@
+python tools/train.py configs/faster_rcnn/faster_rcnn_r50_fpn_2x_voc.py
